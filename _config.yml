@@ -27,9 +27,9 @@ rss: /atom.xml
 
 #follow 按顺序展示
 follow:
-  github: 'https://github.com/shixiaohu2206'
-  facebook: 'https://www.facebook.com/shi.xiaohu.5'
-  instagram: 'https://www.instagram.com/shi_xiaohu/'
+  github: 'https://github.com/ft-john'
+  #facebook: 'https://www.facebook.com/shi.xiaohu.5'
+  #instagram: 'https://www.instagram.com/shi_xiaohu/'
   # twitter: 'https://github.com/shixiaohu2206'
   # weixin: 'https://github.com/shixiaohu2206'
   # alipay: 'https://github.com/shixiaohu2206'
@@ -77,9 +77,9 @@ cdn_css:
 baidu_push: true
 
 #reward
-reward:
-  weixin: 'images/weixin.png'
-  zhifubao: 'images/zhifubao.png'
+#reward:
+#  weixin: 'images/weixin.png'
+#  zhifubao: 'images/zhifubao.png'
 
 #service worker 配合pjax
 service_worker:
